@@ -25,19 +25,19 @@ Things to be included：
 
 Noting all the fields of the data, especially personal information collected by the store. 
 
-#### What does this store do with my data and why?
+#### What does this store do with customers data and why?
 
 Examples:
 
-Email to commincate and update order status
+Email to communicate and update order status
 
 Address for shipping
 
-#### Who does this store share my data with?
+#### Who does this store share the customers data with?
 
 Examples are payment gateways, plugins and so on. 
 
-#### How long does this store keep my data?
+#### How long does this store keep the data of the customers?
 
 Examples: 
 
@@ -47,7 +47,7 @@ Keeping for a year for tax audition
 
 Provide ways to allow the customers to use their rights granted by the GDPR
 
-#### State under which basis you are doing each kind of processing of personal data.
+#### State under which basis the shop are doing each kind of processing of personal data.
 
 Examples: 
 
