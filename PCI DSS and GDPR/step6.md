@@ -21,11 +21,11 @@ Then press "edit" to amend the privacy policy and establish the policy of your s
 
 Things to be included：
 
-1. What data does this store collect about the customers?
+#### What data does this store collect about the customers?
 
 Noting all the fields of the data, especially personal information collected by the store. 
 
-2. What does this store do with my data and why?
+#### What does this store do with my data and why?
 
 Examples:
 
@@ -33,21 +33,21 @@ Email to commincate and update order status
 
 Address for shipping
 
-3. Who does this store share my data with?
+#### Who does this store share my data with?
 
 Examples are payment gateways, plugins and so on. 
 
-4. How long does this store keep my data?
+#### How long does this store keep my data?
 
 Examples: 
 
 Keeping for a year for tax audition 
 
-5. How can the customers access, update, or delete the collected data?
+#### How can the customers access, update, or delete the collected data?
 
 Provide ways to allow the customers to use their rights granted by the GDPR
 
-6. State under which basis you are doing each kind of processing of personal data.
+#### State under which basis you are doing each kind of processing of personal data.
 
 Examples: 
 
@@ -67,3 +67,6 @@ Then you will have the consent manager working for you.
 The plugin will automatically start gathering consent from your visitors.
 
 In addition you will get detailed reports which show you how your visitors are behaving with the consent layer, how many consents you get and how you can optimize your strategie in order to obtain higher rates of consent.
+
+# The completetion of Privacy Policy and Consent management 
+They take you a step closer to make your shop GDPR compliant. 
