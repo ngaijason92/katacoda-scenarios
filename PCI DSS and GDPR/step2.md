@@ -76,5 +76,5 @@ Scroll down and find “Stripe Payments”. Press "Get started" and tick the box
 
 Then you will see "Your settings have been saved."
 
-Now you should see the Stripe is on and ready to use. It will be the payment gateway of your store. 
+Now, Stripe is on and ready to use. It will be the payment gateway of your store. 
 

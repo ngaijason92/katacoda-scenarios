@@ -16,6 +16,7 @@ Wait until the docker images are built and various containers have started up.
 ## Setup Wordpress
 
 Go to the WordPress at localhost:8080:
+
 https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
 
 ### Do the following

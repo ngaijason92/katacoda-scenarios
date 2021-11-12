@@ -1,10 +1,10 @@
-# Compliance to General Data Protection Regulation (GDPR) 
+# Compliance to General Data Protection Regulation (GDPR) and Payment Card Industry Data Security Standard (PCI DSS)
 
 Understand data subject rights and address GDPR requirements and be PCI DSS compliant with demonstrations of using tools.
 
 ## Description
 
-In this scenario you will learn how to address the various data subjects rights in GDPR and be compliant to PCI DSS with Wordpress. 
+In this scenario you will learn how to address the various data subjects rights in GDPR and be compliant to both PCI DSS and GDPR with Wordpress. 
 
 ## Learning Objective
 

@@ -20,7 +20,7 @@ Click on the “SAQ A” with “ENGLISH(PDF)” as the format. Finish the quest
 Upon completion, you only need to keep your  SAQ and Attestation of Compliance (AOC), along with any other requested documentation—such as ASV scan reports on file and ready to send to an “Enforcing Organization” (such as an acquiring bank [the bank that actually process your credit card transactions] or your merchant service provider) on request.
 
 ## Review
-A review annualy is needed to be done to make sure the shop is operating accordingly to the content of the SAQ. 
+A review annualy is needed to be done to make sure the shop is operating according to the content of the SAQ. 
 
 ## Being PCI DSS compliant
 After the completion of the SAQ adn AOC, the shop are qualified to be claimed as PCI DSS compliant

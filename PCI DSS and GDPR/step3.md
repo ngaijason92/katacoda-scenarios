@@ -17,3 +17,5 @@ List of ASV:
 https://www.pcisecuritystandards.org/assessors_and_solutions/approved_scanning_vendors
 
 In our case, the shop is using a Third-Party Payment Page, Stripe. All Stripe users must validate their PCI compliance annually. Most users can do this with a Self-Assessment Questionnaire (SAQ) provided by the PCI Security Standards Council.  
+
+Therefore, getting SAQ ready would make the shop PCI compliant. 
