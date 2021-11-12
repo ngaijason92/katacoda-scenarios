@@ -2,7 +2,9 @@
 
 ## What is SAQ?
 There are two components to the Self-Assessment Questionnaire:
+
 1.	A set of questions corresponding to the PCI Data Security Standard requirements designed for service providers and merchants.
+
 2.	An Attestation of Compliance or certification that you are eligible to perform and have performed the appropriate Self-Assessment. An appropriate Attestation will be packaged with the Questionnaire that you select.
 
 ## Which SAQ is suitable for the shop?
@@ -10,6 +12,7 @@ SAQ A is suitable for the shop because stripe is used as the payment gateway and
 
 ## The SAQ
 The SAQ could be found:
+
 https://www.pcisecuritystandards.org/document_library?category=saq&document=saq
 
 Click on the “SAQ A” with “ENGLISH(PDF)” as the format. Finish the questions of the SAQ and AOC. 

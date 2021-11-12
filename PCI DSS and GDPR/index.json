@@ -1,8 +1,8 @@
 {
   "title": "PCI-DSS and GDPR",
-  "description": "A simple scenario example.",
+  "description": "A scenario to enhance the hands-on skills of the operation team and software developent team related to improving the security Wordpress and WooCommerce platform. Also understanding and  PCI DSS and GDPR compliant",
   "difficulty": "Beginner",
-  "time": "3 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
@@ -16,6 +16,10 @@
       {
         "title": "Step 3",
         "text": "step3.md"
+      }
+      {
+        "title": "Step 4",
+        "text": "step4.md"
       }
     ],
     "intro": {
