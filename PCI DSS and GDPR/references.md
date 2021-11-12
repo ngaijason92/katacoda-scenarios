@@ -19,4 +19,6 @@
 
 8. https://wpforo.com/docs/root/gdpr/
 
-9. https://wordpress.org/plugins/consent-manager/
+9. https://woocommerce.com/posts/getting-ready-for-gdpr-put-someone-in-charge-and-update-your-privacy-policy/
+
+10. https://wordpress.org/plugins/consent-manager/
