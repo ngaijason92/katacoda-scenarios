@@ -5,10 +5,10 @@ PCI-DSS (Payment Card Industry Data Security Standard) is a set of actionable ru
 
 These rules apply to anyone who stores, processes, or transmits cardholder data.
 
-## Why do shops need to be PCI DSS compliant
+## Why do shops need to be PCI DSS compliant?
 PCI DSS was designed and includes detailed requirements for exactly this reason—to minimize the chance of compromise and the effects if a compromise does occur. 
 
-## How to be PCI-DSS compliant
+## How to be PCI-DSS compliant?
 To be PCI compliant, the shop have to have an SSL Certificate, a PCI-compliant web host OR a payment gateway that uses a Third-Party Payment Page that is PCI compliant, and a filled-out SAQ. 
 
 Typically, PCI compliance reports are enforced by the payment processor – they may require that you fill out questionnaires (Self Assessment Questionnaire – or SAQ) or be scanned by an ASV (approved scanning vendor) of their choosing.
