@@ -35,7 +35,7 @@ Email address as 18050863d@connect.polyu.hk
 
 Press confirm then press “Yes, count me in”
 
-![in](assests/Count_me_in.png)
+![in](assets/Count_me_in.png)
 
 ### Industry
 Pick the correct one for the shop. 
