@@ -1,5 +1,3 @@
-# References
-
 
 ## PCI DSS
 1. https://woocommerce.com/document/pci-dss-compliance-and-woocommerce/
@@ -22,3 +20,5 @@
 9. https://woocommerce.com/posts/getting-ready-for-gdpr-put-someone-in-charge-and-update-your-privacy-policy/
 
 10. https://www.cookieyes.com/
+
+11. https://ico.org.uk/
