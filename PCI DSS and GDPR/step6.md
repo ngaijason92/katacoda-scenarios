@@ -65,6 +65,34 @@ Examples of the private policy:
 
 Then, in the top right corner press "Publish" or "Update" to finish editing the Privacy Policy. 
 
+### Showing the privacy policy on the page
+In the left column find "Appearance", under "Appearance" press "Widgets".
+
+Go to "Add block" which is a + symbol and search "Navigation Menu"
+
+![appearance](assets/app.png)
+
+Then a new block of "Navigation Menu" stating that there is no menus have been created yet will pop up. Press "Create some".
+
+![Create](assets/create.png)
+
+Then, you will be redirected to another page which is "Menus" under "Appearance".
+
+Name the "Menu Name" Privacy Policy and tick the Display location as "Primary Menu". Press "Create Menu".
+
+![naming](assets/naming.png)
+
+Press View all and tick Privacy Policy — Privacy Policy. Then press "Add to Menu".
+
+![add_policy](assets/add_policy.png)
+
+Then "Privacy Policy" will be shown in Menu structure. Press "Save Menu".
+
+![Menu_Structure](assets/ms.png)
+
+Then message of succesful update will be shown.
+
+![done](assets/done.png)
 
 ## Consent management, cookie
 Consent management is the act or process of managing consents from your users and customers for processing their personal data.
@@ -90,6 +118,12 @@ Then you will have the CookieYes working for you.
 The plugin will automatically start gathering consent from your visitors.
 
 In addition you will get detailed reports which show you how your visitors are behaving with the consent layer, how many consents you get. 
+
+### The customer view for privacy policy and cookies message pop up
+
+Top right to access the privacy policy and bottom to see the cookie message pop up. 
+
+![customer](assets/Customer1.png)
 
 ### The right to be informed & The right to object
 
