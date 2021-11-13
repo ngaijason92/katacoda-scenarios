@@ -16,21 +16,21 @@ GDPR requires stores to inform their customers about what information they colle
 ## To the EU residents
 EU residents have rights granted by the GDPR, namely: 
 
-The right to be informed        
+1. The right to be informed        
 
-The right to access
+2. The right to access
 
-The right to rectification
+3. The right to rectification
 
-The right to erasure or right to be forgotten
+4. The right to erasure or right to be forgotten
 
-The right to restriction of processing
+5. The right to restriction of processing
 
-The right to data portability
+6. The right to data portability
 
-The right to object
+7. The right to object
 
-The right not to be subject to a decision based solely on automated processing
+8. The right not to be subject to a decision based solely on automated processing
 
 The GDPR also gives EU residents the right to find out if their personal data has been compromised. Stores will need to notify customers if their personal data is stolen in a breach, and do so in a timely manner.
 
@@ -47,6 +47,4 @@ Personal Data means anything that can identify a person, either on its own or co
 6. IP address
 
 ## What needed to be done to be GDPR compliant?
-Put Someone in charge of data. 
-
-Build a Privacy Policy, handle Consent Management and provide support to fulfill the rights that are granted to the users by GDPR 
+Put Someone in charge of data. Build a Privacy Policy, handle Consent Management and provide support to fulfill the rights that are granted to the users by GDPR.

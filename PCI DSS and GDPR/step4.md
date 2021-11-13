@@ -23,4 +23,4 @@ Upon completion, you only need to keep your  SAQ and Attestation of Compliance (
 A review annualy is needed to be done to make sure the shop is operating according to the content of the SAQ. 
 
 ## Being PCI DSS compliant
-After the completion of the SAQ and AOC, the shop are qualified to be claimed as PCI DSS compliant
+After the completion of the SAQ and AOC, the shop are qualified to be claimed as PCI DSS compliant.

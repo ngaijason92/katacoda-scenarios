@@ -72,7 +72,7 @@ The plugin will automatically start gathering consent from your visitors.
 
 In addition you will get detailed reports which show you how your visitors are behaving with the consent layer, how many consents you get. 
 
-### The right to be informed & The right to object.
+### The right to be informed & The right to object
 
 The consent management also satisfies the right of the customers granted by the GDPR namely the right to be informed & the right to object.
 

@@ -50,6 +50,8 @@ After the the status switches to “Confirmed”, you can click the "Erase Perso
 
 If a plugin needs to retain a bit of personal data for whatever reason, it will be displayed to you at the end of the erasure process. For further erasure, You may need to manually remove personal data collected by other plugins or services to be in full compliance with the Right to Erasure request. 
 
+This satisfies "The right to erasure" of the customers.
+
 ## The right to restriction of processing
 The right to restriction of processing means that an individual can limit the way that an organisation uses their data.
 
@@ -64,10 +66,14 @@ If one of the following applies:
 
 Upon request from the customers, the personal data shall, with the exception of storage, only be processed with the data subject’s consent or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or of a Member State.
 
+This satisfies "The right to restriction of processing" of the customers.
+
 ## The right to object
 The right to object gives individuals the right to object to the processing of their personal data at any time.
 
 Apart from cookies as the consent manager, upon request from the customers, the controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims.
+
+This satisfies "The right to object" of the customers.
 
 ## The right not to be subject to a decision based solely on automated processing
 The right not to be subject to a decision based solely on automated processing means the data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.
@@ -81,3 +87,5 @@ Unless the data subject,
 3. is based on the data subject’s explicit consent.
 
 Upon request from the customers, the customer has one month to request for you to review the decision, or take a new decision not based solely on automated means. You must consider the request including any information provided by the individual. You need to respond to the individual within one month of receipt of their request and outline the steps you have taken as well as the outcome.
+
+This satisfies "The right not to be subject to a decision based solely on automated processing" of the customers.

@@ -21,4 +21,4 @@
 
 9. https://woocommerce.com/posts/getting-ready-for-gdpr-put-someone-in-charge-and-update-your-privacy-policy/
 
-10. https://wordpress.org/plugins/consent-manager/
+10. https://www.cookieyes.com/
