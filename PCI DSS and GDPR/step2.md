@@ -102,7 +102,7 @@ Tick the box “Enable Stripe”.
 
 Then press "Save changes" at the bottom of the pages.
 
-![save_changes](assets/save_changes_.png)
+![save_changes](assets/save_changes.png)
 
 Then you will see "Your settings have been saved."
 
