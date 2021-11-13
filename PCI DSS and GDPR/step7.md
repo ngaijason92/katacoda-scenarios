@@ -1,5 +1,8 @@
 # To be GDPR compliant
 
+## The way customer can use their right granted by GDPR
+The way to make request shall be clearly stated in the privacy policy. 
+
 ## The right to access and the right to data portability
 Right to access means that an EU resident has a right to a copy of all the data you’ve collected about him or her.
 
@@ -7,15 +10,23 @@ Right to data portability implies that any business that collects data must also
 
 In the left column find "Tools", under "Tools" press "Export Personal Data" and start by confirming the identity of the person making the request before you touch their personal data. 
 
+![tools](assets/tools.png)
+
 Then, under "Username or email address",  you can send a confirmation request to the customer’s email address. Type the email and press "Send Request".
+
+![send](assets/send.png)
 
 The customer will then receive an email with a confirmation link, which they’ll use to confirm the request.
 
 While you’re waiting for the customer to confirm, you’ll see the request displayed as “Pending.” Once they click the link, the status switches to “Confirmed”.
 
+![status](assets/status.png)
+
 After the the status switches to “Confirmed”, you can then send the customer a link to the file or download their file yourself by clicking the button under "Next Steps" or under the requester field. 
 
-After you’ve downloaded or emailed the file, the request will be marked “Completed.”
+After you’ve downloaded or emailed the file, the status will be marked “Completed.”
+
+![complete](assets/complete.png)
 
 The customers then successfully access their data and can download it to take/transfer the data elsewhere.
 
@@ -26,9 +37,13 @@ The right to rectification means the data subject shall have the right to obtain
 
 In the left column find "Users", under "Users" press "All users". Find the customers that demand amendments from the list or search it in the searchbar on top right corner. 
 
+![user](assets/user.png)
+
 Press the name of the customers. Change the content according to their request. 
 
 Scroll down and press "Update user".
+
+![updateUser](assets/update.png)
 
 Then the information of the users will be updated. 
 
@@ -40,13 +55,21 @@ Right to erasure means that the customers have the right to obtain from the cont
 
 In the left column find "Tools", under "Tools" press "Erase Personal Data" and start by confirming the identity of the person making the request before you touch their personal data. 
 
+![tools](assets/tools2.png)
+
 Then, under "Username or email address",  you can send a confirmation request to the customer’s email address. Type the email and press "Send Request".
+
+![send](assets/send2.png)
 
 The customer will then receive an email with a confirmation link, which they’ll use to confirm the request.
 
 While you’re waiting for the customer to confirm, you’ll see the request displayed as “Pending.” Once they click the link, the status switches to “Confirmed”.
 
+![status](assets/status2.png)
+
 After the the status switches to “Confirmed”, you can click the "Erase Personal Data" under "Next Steps" or under the requester field. Then, the software will start scrubbing away.
+
+![erase](assets/completed2.png)
 
 If a plugin needs to retain a bit of personal data for whatever reason, it will be displayed to you at the end of the erasure process. For further erasure, You may need to manually remove personal data collected by other plugins or services to be in full compliance with the Right to Erasure request. 
 
@@ -78,7 +101,7 @@ This satisfies "The right to object" of the customers.
 ## The right not to be subject to a decision based solely on automated processing
 The right not to be subject to a decision based solely on automated processing means the data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.
 
-Unless the data subject, 
+Unless the data subject
 
 1. is necessary for entering into, or performance of, a contract between the data subject and a data controller;
 
