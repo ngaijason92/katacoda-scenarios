@@ -82,7 +82,7 @@ Name the "Menu Name" Privacy Policy and tick the Display location as "Primary Me
 
 ![naming](assets/naming.png)
 
-Press View all and tick Privacy Policy — Privacy Policy. Then press "Add to Menu".
+Press View all and tick Privacy Policy. Then press "Add to Menu".
 
 ![add_policy](assets/add_policy.png)
 
