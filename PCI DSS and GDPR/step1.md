@@ -22,6 +22,8 @@ https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
 ### Do the following
 Then select the language as "English(United States)"
 
+![language](assets/WP_lang.png)
+
 Set the store with data of yours. 
 
 Example: 
@@ -38,12 +40,18 @@ Email: 18050863d@connect.polyu.hk
 
 Press "Install WordPress"
 
+![credentials](assets/WP_Credentials.png)
+
 After confirming credentials,
 
 Press "log in"
 
+![confirmation](assets/WP_Confirmation.png)
+
 Getting into Wordpress,
 
 Press "log in" with the username and password initialized before 
+
+![login](assets/WP_login.png)
 
 Then you should have WordPress ready to use. 
