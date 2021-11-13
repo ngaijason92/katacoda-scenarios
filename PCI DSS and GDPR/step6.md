@@ -45,7 +45,7 @@ Examples:
 
 Keeping for a year for tax audition 
 
-#### How can the customers access, update, or delete the collected data?
+#### How can the customers access, update, or delete the collected data or use the right granted by GDPR?
 
 Provide ways to allow the customers to use their rights granted by the GDPR
 
