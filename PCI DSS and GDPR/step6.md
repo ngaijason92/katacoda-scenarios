@@ -19,6 +19,8 @@ In the left column find "Settings", under "Settings" press "Privacy".
 
 Then press "edit" to amend the privacy policy and establish the policy of your shop. 
 
+![edit](assets/edit.png)
+
 Things to be included：
 
 #### What data does this store collect about the customers?
@@ -53,7 +55,16 @@ Examples:
 
 Consent, Contractual necessity, Compliance with legal obligations or Legitimate interests.
 
-Then, in the top right corner press "Update" to finish editing the Privacy Policy. 
+Examples of the private policy:
+
+![policy](assets/Policy.png)
+
+![policy2](assets/Policy2.png)
+
+![policy3](assets/Policy3.png)
+
+Then, in the top right corner press "Publish" or "Update" to finish editing the Privacy Policy. 
+
 
 ## Consent management, cookie
 Consent management is the act or process of managing consents from your users and customers for processing their personal data.
@@ -62,11 +73,19 @@ In other words, consent management means to enable for your users the ability to
 
 In the left column find "Plugins", under "Plugins" press "Add New". 
 
-In the top right corner, in "Search plugins...", type "GDPR Cookie Consent". Install the GDPR Cookie Consent. 
+![add_plugins](assets/WP_AddPlugins.png)
+
+In the top right corner, in "Search plugins...", type "CookieYes". Install the CookieYes. 
+
+![findCookieYes](assets/CookieYes.png)
 
 Wait for the download and press "Activate". 
 
+![activateCookie](assets/Cookie.png)
+
 Then you will have the CookieYes working for you.
+
+![activateCookie](assets/Cookies.png)
 
 The plugin will automatically start gathering consent from your visitors.
 
