@@ -55,18 +55,33 @@ Consent, Contractual necessity, Compliance with legal obligations or Legitimate 
 
 Then, in the top right corner press "Update" to finish editing the Privacy Policy. 
 
-## Consent management
+## Consent management, cookie
+Consent management is the act or process of managing consents from your users and customers for processing their personal data.
+
+In other words, consent management means to enable for your users the ability to opt-in and out of the specific cookie categories (preferences, statistics and marketing), to consent and to withdraw their consent again if they chose to. 
+
 In the left column find "Plugins", under "Plugins" press "Add New". 
 
-In the top right corner, in "Search plugins...", type "Consent Manager”. Install the Consent Manager. 
+In the top right corner, in "Search plugins...", type "GDPR Cookie Consent". Install the GDPR Cookie Consent. 
 
 Wait for the download and press "Activate". 
 
-Then you will have the consent manager working for you.
+Then you will have the CookieYes working for you.
 
 The plugin will automatically start gathering consent from your visitors.
 
-In addition you will get detailed reports which show you how your visitors are behaving with the consent layer, how many consents you get and how you can optimize your strategie in order to obtain higher rates of consent.
+In addition you will get detailed reports which show you how your visitors are behaving with the consent layer, how many consents you get. 
 
-# The completetion of Privacy Policy and Consent management 
-They take you a step closer to make your shop GDPR compliant. 
+### The right to be informed & The right to object.
+
+The consent management also satisfies the right of the customers granted by the GDPR namely the right to be informed & the right to object.
+
+The right to be informed:
+
+Individuals have the right to be informed about the collection and use of their personal data. The cookies notify the users that their data is collected. 
+
+The right to object:
+
+This also gives them the right to object where customers can always object to their data being used for any purpose by not giving their consent and reject the cookies. 
+
+Therefore, the cookies which is the consent manager would help to satisfy the consent management required by the GDPR and the right to be informed & the right to object of the customers.

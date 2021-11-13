@@ -4,7 +4,7 @@
 
 In the left column find "Plugins", under "Plugins" press "Add New". 
 
-In the top right corner, in "Search plugins...", type “WooCommerce”. Install the WooCommerce. 
+In the top right corner, in "Search plugins...", type "WooCommerce". Install the WooCommerce. 
 
 Wait for the download and press "Activate". 
 
