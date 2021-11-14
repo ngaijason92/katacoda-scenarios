@@ -92,7 +92,7 @@ Then "Privacy Policy" will be shown in Menu structure. Press "Save Menu".
 
 Then message of succesful update will be shown.
 
-![done](assets/done.png)
+![done](assets/upd.png)
 
 ## Consent management, cookie
 Consent management is the act or process of managing consents from your users and customers for processing their personal data.
